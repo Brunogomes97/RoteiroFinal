@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1525545638 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Circulo.h"
+	"Quadrado.h"
+	"Triangulo.h"
+
+1525545805 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\src\circulo.cpp
+	"Circulo.h"
+
+1525545638 c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\include\circulo.h
+	"FiguraGeometrica.h"
+
+1525545720 c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\include\figurageometrica.h
+	<string>
+
+1525545746 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1525545805 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\src\quadrado.cpp
+	"Quadrado.h"
+	"FiguraGeometrica.h"
+
+1525545637 c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1524833366 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\src\retangulo.cpp
+	"Retangulo.h"
+
+1524833366 c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\include\retangulo.h
+
+1525273230 source:k:\q2\src\circulo.cpp
+	"Circulo.h"
+
+1525273230 k:\q2\include\circulo.h
+	"FiguraGeometrica.h"
+
+1525272349 k:\q2\include\figurageometrica.h
+	<string>
+
+1525272457 source:k:\q2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1525273171 source:k:\q2\src\quadrado.cpp
+	"Quadrado.h"
+	"FiguraGeometrica.h"
+
+1525273171 k:\q2\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1524833366 source:k:\q2\src\retangulo.cpp
+	"Retangulo.h"
+
+1524833366 k:\q2\include\retangulo.h
+
+1525284154 source:k:\q2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Circulo.h"
+	"Quadrado.h"
+
+1525545302 c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1525545321 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q2\src\triangulo.cpp
+	"Triangulo.h"
+
