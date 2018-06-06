@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1528324802 source:c:\users\cliente\desktop\backup\programação em c++\q11\main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaEspecial.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1528324770 source:c:\users\cliente\desktop\backup\programação em c++\q11\src\conta.cpp
+	"Conta.h"
+
+1528324790 c:\users\cliente\desktop\backup\programação em c++\q11\include\conta.h
+	<string>
+	<iostream>
+
+1528324841 source:c:\users\cliente\desktop\backup\programação em c++\q11\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1528323620 c:\users\cliente\desktop\backup\programação em c++\q11\include\contacorrente.h
+	"Conta.h"
+
+1528323620 source:c:\users\cliente\desktop\backup\programação em c++\q11\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1528323620 c:\users\cliente\desktop\backup\programação em c++\q11\include\contaespecial.h
+	"ContaCorrente.h"
+
+1528323569 source:c:\users\cliente\desktop\backup\programação em c++\q11\src\poupanca.cpp
+	"Poupanca.h"
+
+1528323636 c:\users\cliente\desktop\backup\programação em c++\q11\include\poupanca.h
+	"Conta.h"
+
